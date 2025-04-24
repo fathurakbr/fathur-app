@@ -1,4 +1,4 @@
-import streamlit as st
-
-st.title("Fathur")
-st.write("ftur.akbr)
+st.title("belajar membuat web fathur")
+st.write(
+    "hello"
+)
